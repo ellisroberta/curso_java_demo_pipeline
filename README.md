@@ -1,2 +1,2 @@
-# curso_java_demo_pipeline
+# Demo - pipeline
 Introdução à Programação Orientada a Objetos (Pipeline)
